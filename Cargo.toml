@@ -1,0 +1,9 @@
+[package]
+name = "cur2png"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+clap = "4.0"
+ico = "0.4"
+serde_json = "1.0"
